@@ -4,7 +4,7 @@ This repository contains projects did for Udacity Programming For Data Science U
 
 
 ## Python Project:
-[Check My Project Submission Through This Link]()
+[Check My Project Submission Through This Link](https://github.com/Moohammad3/GitHub-Project/tree/master/Python%20Project)
 
 ### Overview:
 
@@ -18,7 +18,7 @@ For the presentation component, the student had to create four slides, and each 
 
 
 ## Github-docs:
-[Check My Project Submission Through This Link]()
+[Check My Project Submission Through This Link](https://github.com/Moohammad3/GitHub-Project/tree/master/Github-docs)
 
 ### Overview:
 
