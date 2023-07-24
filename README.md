@@ -1,17 +1,28 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+## Created by Mohammed Al-Zayed
 
-### Date created
-Include the date you created this project and README file.
+This repository contains projects did for Udacity Programming For Data Science Using Python Nanodegree.
 
-### Project Title
-Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+## Python Project:
+[Check My Project Submission Through This Link]()
 
-### Files used
-Include the files used
+### Overview:
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
+
+For the presentation component, the student had to create four slides, and each should have 
+* A question of interest.
+* A supporting SQL query needed to answer the question.
+* A supporting visualization created using the final data of the SQL queries that answer the questions of interest.
+* A small summary on each slide.
+
+
+## Github-docs:
+[Check My Project Submission Through This Link]()
+
+### Overview:
+
+This project consisted in using Git and GitHub.
+
+The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
