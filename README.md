@@ -17,8 +17,8 @@ For the presentation component, the student had to create four slides, and each 
 * A small summary on each slide.
 
 
-## Github-docs:
-[Check My Project Submission Through This Link](https://github.com/Moohammad3/GitHub-Project/tree/master/Github-docs)
+### Project Title
+Replace the Project Title
 
 ### Overview:
 
