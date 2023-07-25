@@ -1,4 +1,5 @@
 ## Created by Mohammed Al-Zayed
+July.24 2023
 
 This repository contains projects did for Udacity Programming For Data Science Using Python Nanodegree.
 
@@ -17,8 +18,13 @@ For the presentation component, the student had to create four slides, and each 
 * A small summary on each slide.
 
 
+<<<<<<< HEAD
 ### Project Title
 Replace the Project Title
+=======
+## Github-docs:
+[Check My Project Submission Through This Link](https://github.com/Moohammad3/GitHub-Project/tree/master/Github-docs)
+>>>>>>> documentation
 
 ### Overview:
 
